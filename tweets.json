@@ -1,0 +1,52 @@
+[
+  {
+    "user_id": "user_1",
+    "tweet_text": "Exploring #BigData potential in 2024!",
+    "timestamp": "2024-01-15 10:30:00",
+    "hashtags": ["#BigData", "#Analytics"],
+    "location": {
+      "city": "Paris",
+      "coordinates": [48.8566, 2.3522]
+    }
+  },
+  {
+    "user_id": "user_2",
+    "tweet_text": "Learning #Hadoop basics! Very exciting times ahead!",
+    "timestamp": "2024-01-20 14:45:00",
+    "hashtags": ["#Hadoop", "#Learning"],
+    "location": {
+      "city": "Tokyo",
+      "coordinates": [35.6895, 139.6917]
+    }
+  },
+  {
+    "user_id": "user_3",
+    "tweet_text": "Can anyone explain the basics of #DataScience? Starting my journey.",
+    "timestamp": "2024-02-10 09:15:00",
+    "hashtags": ["#DataScience", "#MachineLearning"],
+    "location": {
+      "city": "New York",
+      "coordinates": [40.7128, -74.006]
+    }
+  },
+  {
+    "user_id": "user_4",
+    "tweet_text": "The future is here with #AI. Amazing developments!",
+    "timestamp": "2024-02-15 16:20:00",
+    "hashtags": ["#AI", "#Innovation"],
+    "location": {
+      "city": "London",
+      "coordinates": [51.5074, -0.1278]
+    }
+  },
+  {
+    "user_id": "user_5",
+    "tweet_text": "How #CloudComputing is revolutionizing everything!",
+    "timestamp": "2024-03-05 11:30:00",
+    "hashtags": ["#CloudComputing", "#Technology"],
+    "location": {
+      "city": "San Francisco",
+      "coordinates": [37.7749, -122.4194]
+    }
+  }
+]
